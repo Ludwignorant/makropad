@@ -1,3 +1,5 @@
+original project: https://www.ubiqueiot.com/posts/xiao-nrf52840-zmk
+
 Keymap settings:
 Folder: C:\Hobby\Projekte\macropad\makropad\config\boards\shields\macropad
 
